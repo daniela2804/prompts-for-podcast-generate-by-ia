@@ -34,6 +34,6 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
 - 🤖 2. Use os prompts de roteiro gerados pelo chatgpt no  `ElevenLabs`
 - 🤖 3. Use os prompts de artes no `midjourney`
 
-## 👨‍💻 Expert
+# 👨‍💻 Conheça aqui meu podcast!
 
 https://github.com/daniela2804/prompts-for-podcast-generate-by-ia/blob/main/output/Conversas%20para%20Selecionar_Episodio01.mp4
